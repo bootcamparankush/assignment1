@@ -1,5 +1,5 @@
 # Assignment #1
-# This repo is for Assignment #1 for the Coding Bootcamp. I have made the necessary code (HTML and CSS) and also followed the github deployment steps to # # make sure I apply the class learning for week#1. I have also added a scren shot of the rendering of the web page with all issues I fixed in the code. 
+# This repo is for Assignment #1 for the Coding Bootcamp. I have made the necessary code (HTML and CSS) changes and followed the github deployment steps to # make sure I apply the class learnings from week#1. I have also added a scren shot of the rendering of the web page with all issues I fixed in the code. 
 # the link accessing the updated web page: https://bootcamparankush.github.io/assignment1/#social-media-marketing
 
 
