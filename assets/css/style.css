@@ -87,7 +87,7 @@ p {
 }
 
 
-/* Created new class "benefit" to reuse it*/
+/* Created new class "benefit" to reuse it in html objects*/
 
 .benefit {
     margin-bottom: 32px;
@@ -159,7 +159,7 @@ p {
 }
 */
 
-/* Created new class "benefits" to reuse it in the html objects*/
+/* Created new class "services" to reuse it in the html objects and commented repititive css code*/
 
 .services {
     margin-bottom: 20px;
@@ -169,6 +169,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 /*
 .search-engine-optimization {
     margin-bottom: 20px;
