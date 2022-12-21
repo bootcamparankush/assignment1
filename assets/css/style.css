@@ -87,6 +87,7 @@ p {
 }
 
 
+/* Created new class "benefit" to reuse it*/
 
 .benefit {
     margin-bottom: 32px;
@@ -158,6 +159,7 @@ p {
 }
 */
 
+/* Created new class "benefits" to reuse it in the html objects*/
 
 .services {
     margin-bottom: 20px;
